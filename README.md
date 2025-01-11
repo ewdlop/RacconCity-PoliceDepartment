@@ -2,7 +2,7 @@
 
 ## They did not tell me
 
-```pyton
+```python
 import random
 import time
 from enum import Enum
